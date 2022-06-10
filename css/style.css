@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    font-family: "Small Pixel";
+    /*font-family: "Small Pixel";*/
     background-color: #6E3924;
 }
 
@@ -76,4 +76,10 @@ a{
     text-decoration: none;
     color: aqua;
     font-family: "Small Pixel"
+}
+
+#idee{
+    max-width: 50%;
+    margin: 1vh;
+    border-radius: 12px;
 }
